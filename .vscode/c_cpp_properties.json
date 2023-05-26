@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/tim.KOHLSTEDT0/Documents/Pico/pico-sdk/**"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/11.3 rel1/bin/arm-none-eabi-gcc.EXE",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "linux-gcc-arm",
+      "configurationProvider" : "ms-vscode.cmake-tools"
+    }
+  ],
+  "version": 4
+}

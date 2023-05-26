@@ -1,0 +1,3 @@
+C:/Users/tim.KOHLSTEDT0/Documents/Pico/PicoPlayer/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/tim.KOHLSTEDT0/Documents/Pico/PicoPlayer/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/tim.KOHLSTEDT0/Documents/Pico/PicoPlayer/build/pioasm/CMakeFiles/rebuild_cache.dir
